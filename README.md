@@ -34,4 +34,4 @@ The training and validation history is shown below:
 ---
 
 ### How to Run
-The complete code and analysis are available in the `Your_Notebook_Name.ipynb` file.
+The complete code and analysis are available in the `CNN_image_classification.ipynb` file.
