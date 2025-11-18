@@ -28,11 +28,10 @@ The model was trained for 10 epochs and achieved a final test accuracy of **70.1
 
 The training and validation history is shown below:
 
-![Training History Plots](training_history_plots.png)
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/5178d3f9-c420-4708-b98f-d9ac5d8cb6cd" />
+
 
 ---
 
 ### How to Run
 The complete code and analysis are available in the `Your_Notebook_Name.ipynb` file.
-
-*(**Important:** Make sure to change `Your_Notebook_Name.ipynb` in that last line to the actual name of your notebook file!)
